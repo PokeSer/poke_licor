@@ -1,0 +1,6 @@
+C:\Proyectos\poke_licor\build\poke_licor\poke_licor_cl.net.dll
+C:\Proyectos\poke_licor\build\poke_licor\poke_licor_cl.net.pdb
+C:\Proyectos\poke_licor\poke_licor_cl\obj\Debug\poke_licor_cl.csprojAssemblyReference.cache
+C:\Proyectos\poke_licor\poke_licor_cl\obj\Debug\poke_licor_cl.csproj.CoreCompileInputs.cache
+C:\Proyectos\poke_licor\poke_licor_cl\obj\Debug\poke_licor_cl.net.dll
+C:\Proyectos\poke_licor\poke_licor_cl\obj\Debug\poke_licor_cl.net.pdb

@@ -1,0 +1,14 @@
+{
+  "defaultlang": "Es",
+
+  "drunkTime": 120 //Drunk time in seconds
+
+  "ItemsToUse": [
+    {
+      "Name": "licor"
+    },
+    {
+      "Name": "beer"
+    }
+  ]
+}
