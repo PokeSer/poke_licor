@@ -44,9 +44,12 @@ namespace poke_licor_cl
                         drunk = true;
                         effect = animFxType;
                         Function.Call((Hash)0x4102732DF6B4005F, animFxType, 0, true);
-                        Function.Call((Hash)0xC6258F41D86676E0, API.PlayerPedId(), coretype, 100);
-                        Function.Call((Hash)0x4AF5A4C7B9157D14, API.PlayerPedId(), coretype, 2000.0);
-                        Function.Call((Hash)0xF6A7C08DF2E28B28, API.PlayerPedId(), 0, 2000.0);
+                        if (coretype != -1)
+                        {
+                            Function.Call((Hash)0xC6258F41D86676E0, API.PlayerPedId(), coretype, 100);
+                            Function.Call((Hash)0x4AF5A4C7B9157D14, API.PlayerPedId(), coretype, 2000.0);
+                            Function.Call((Hash)0xF6A7C08DF2E28B28, API.PlayerPedId(), 0, 2000.0);
+                        }
                         Function.Call((Hash)0x406CCF555B04FAD3, API.PlayerPedId(), 1, 1.0f);
                         TriggerEvent("vorp:Tip", GetConfig.Langs["you_consumed"] + item, 3000);
                     }
