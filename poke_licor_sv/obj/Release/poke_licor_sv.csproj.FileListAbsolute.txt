@@ -5,9 +5,7 @@ C:\Proyectos\poke_licor\poke_licor_sv\bin\Release\poke_licor_sv.net.pdb
 C:\Proyectos\poke_licor\poke_licor_sv\obj\Release\poke_licor_sv.csprojAssemblyReference.cache
 C:\Proyectos\poke_licor\poke_licor_sv\obj\Release\poke_licor_sv.csproj.CoreCompileInputs.cache
 C:\Proyectos\poke_licor\poke_licor_sv\obj\Release\poke_licor_sv.net.dll
-C:\Proyectos\poke_licor\poke_licor_sv\obj\Release\poke_licor_sv.net.pdb
 C:\Proyectos\poke_licor\build\poke_licor\Config.json
 C:\Proyectos\poke_licor\build\poke_licor\locale\Es.json
 C:\Proyectos\poke_licor\build\poke_licor\poke_licor_sv.net.dll
-C:\Proyectos\poke_licor\build\poke_licor\poke_licor_sv.net.pdb
 C:\Proyectos\poke_licor\build\poke_licor\locale\En.json
